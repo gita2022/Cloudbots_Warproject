@@ -19,7 +19,7 @@
 
         <tr>
             <td>
-                <label for="id1">Mobile Number</label>
+                <label for="id1">Enter Mobile no.</label>
             </td>
             <td>
                 <input type="tel" id="id1" name="n1" placeholder="9122056360">  
