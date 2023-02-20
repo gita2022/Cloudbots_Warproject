@@ -10,7 +10,7 @@
     <table align="center" cellpadding="8px" cellspacing="8px">
         <tr>
             <td>
-                <label for="id0">Enter Your Name </label>
+                <label for="id0">Enter Your Name plz </label>
             </td>
             <td>
                 <input type="text"  id="id0"  name="n0" placeholder="Enter Your Name">     
