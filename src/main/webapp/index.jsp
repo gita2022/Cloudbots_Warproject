@@ -37,7 +37,7 @@
 
          <tr>
                 <td>
-                    <label for="id3">Email Id</label>
+                    <label for="id3">Email </label>
                 </td>
                 <td>
                     <input type="email" id="id3" name="n3" value="tpia.21@gmail.com">  
